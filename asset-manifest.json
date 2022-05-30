@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react_todolist/static/js/main.f53db829.js",
+    "index.html": "/react_todolist/index.html",
+    "main.f53db829.js.map": "/react_todolist/static/js/main.f53db829.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f53db829.js"
+  ]
+}
